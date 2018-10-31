@@ -1,0 +1,19 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "craw the information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not share"
+  },
+  "keywords": [
+    "web",
+    "crawler"
+  ],
+  "author": "Js Lee",
+  "license": "ISC"
+}
